@@ -1,0 +1,9 @@
+[submodule "photino.Native"]
+	path = photino.Native
+	url = https://github.com/sinterdev/photino.Native.git
+[submodule "photino.NET"]
+	path = photino.NET
+	url = https://github.com/sinterdev/photino.NET.git
+[submodule "photino.Samples"]
+	path = photino.Samples
+	url = https://github.com/sinterdev/photino.Samples.git
